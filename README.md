@@ -108,7 +108,4 @@
 
 ---
 
-## 📌 Author
 
-**Mini Project Contributor Team**  
-Automation with Microsoft 365 Tools
